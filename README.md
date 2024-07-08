@@ -1,14 +1,10 @@
 # Azure Cognitive Search Async Azure OpenAI
 
 This repo implements a simple async pattern to process text extracted from an Azure Cognitive Search index with Azure OpenAI for entity enrichments. 
-<br>
-<br>
+
 Through a custom prompt, you can extract different entities to enrich your search experience with more relevant facets or filters, enabling easier document discovery and retrieval. 
-<br>
-<br>
+
 As a research company, you may be interested in extracting material properties out of papers, or in the Telco industry, you may want to extract information over your call center data in multiple digital channels or just summarize the customer conversations. In the Oil&Gas sector, you may need to analyze drilling report to extract business critical information.
-<br>
-<br>
 
 Combining Azure Cognitive Search with Azure OpenAI is a simple and effective way to get personalized experiences without training complex Machine Learning models for entity extracting and search enrichment.
 
